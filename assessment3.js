@@ -20,6 +20,8 @@ let pwdMatch = pwd1 === pwd2;
 
 // Don't edit the code below here!
 
+const section = document.querySelector('section');
+
 section.innerHTML = ' ';
 let para1 = document.createElement('p');
 let para2 = document.createElement('p');
